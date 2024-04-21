@@ -155,5 +155,5 @@ function colorChangedMessage() {
     document.querySelector('.color-change-message').classList.add('color-changed-message');
 }
 function removeColorChanged() {
-    document.querySelector('.color-change=-message').classList.remove('color-changed-message');
+    document.querySelector('.color-change-message').classList.remove('color-changed-message');
 }
